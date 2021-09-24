@@ -15,7 +15,7 @@ print("c =", c)
 print("sum =", a + b + c)
 
 print("FUNCTION 3")
-print(a*a)
+print("square of a =", a*a)
 
 print("FUNCTION 4")
 
