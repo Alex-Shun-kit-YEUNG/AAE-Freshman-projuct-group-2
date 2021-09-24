@@ -1,4 +1,5 @@
+print('FUNCTION 2')
 a = input('first number: ')
 b = input('second number: ')
-sum = int(a) + int(b)
-print(sum) 
+sum = (int(a) + int(b))
+print('the sum is ', sum) 
