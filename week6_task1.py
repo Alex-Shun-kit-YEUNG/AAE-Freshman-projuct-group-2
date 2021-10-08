@@ -327,15 +327,15 @@ def main():
         ox.append(-10.0)
         oy.append(i)
 
-    for i in range(-10, 40): # draw the free border
+    for i in range(-10, 55): # draw the free border
         ox.append(20.0)
         oy.append(i)
 
     for i in range(20, 40):
         ox.append(i)
-        oy.append(40)
+        oy.append(55)
 
-    for i in range(0, 40):
+    for i in range(0, 55):
         ox.append(40)
         oy.append(i)    
     
