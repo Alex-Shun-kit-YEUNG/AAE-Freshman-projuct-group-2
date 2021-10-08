@@ -327,15 +327,15 @@ def main():
     
     # set fuel consuming area
     fc_x, fc_y = [], []
-    for i in range(30, 35):
-        for j in range(0, 40):
+    for i in range(-10, 10):
+        for j in range(20, 30):
             fc_x.append(i)
             fc_y.append(j)
     
     # set time consuming area
     tc_x, tc_y = [], []
-    for i in range(10, 20):
-        for j in range(20, 50):
+    for i in range(25, 40):
+        for j in range(-5, 10):
             tc_x.append(i)
             tc_y.append(j)
 
