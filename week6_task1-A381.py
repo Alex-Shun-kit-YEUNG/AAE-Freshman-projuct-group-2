@@ -1,3 +1,16 @@
+"""
+A* grid planning
+author: Atsushi Sakai(@Atsushi_twi)
+        Nikos Kanargias (nkana@tee.gr)
+See Wikipedia article (https://en.wikipedia.org/wiki/A*_search_algorithm)
+This is the simple code for path planning class
+"""
+
+
+
+
+
+
 
 
 import math
@@ -34,8 +47,8 @@ class AStarPlanner:
 
         ############you could modify the setup here for different aircraft models (based on the lecture slide) ##########################
         self.C_F = 1
-        self.Delta_F = 1
-        self.C_T = 2
+        self.Delta_F = 1.5
+        self.C_T = 3
         self.Delta_T = 5
         self.C_C = 10
         
