@@ -1,4 +1,4 @@
-Group 2 AAE Freshman project
+#AAE
 
 Task 1
 
