@@ -1,4 +1,5 @@
-# <p align="center">
+<p align="center">
+  Polyu
 ### Group 2
 
 Task 1
