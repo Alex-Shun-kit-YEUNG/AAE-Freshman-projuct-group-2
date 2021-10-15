@@ -1,6 +1,4 @@
 # <p align="center">
-  hi
-  
 ### Group 2
 
 Task 1
