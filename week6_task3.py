@@ -51,13 +51,15 @@ class AStarPlanner:
         self.C_T = 2
         self.Delta_T = 5
         self.C_C = 10
+        self.C_P = -2
+        self.Delta_P = 2
         
         self.Delta_F_A = 0.2 # additional fuel
         self.Delta_T_A = 0.2 # additional time 
         
         
 
-        self.costPerGrid = self.C_F * self.Delta_F + self.C_T * self.Delta_T + self.C_C
+        self.costPerGrid = self.C_F * self.Delta_F + self.C_T * self.Delta_T + self.C_C + self.C_P * self.Delta_P 
 
         print("PolyU-A380 cost part1-> ", self.C_F * (self.Delta_F + self.Delta_F_A) )
         print("PolyU-A380 cost part2-> ", self.C_T * (self.Delta_T + self.Delta_T_A) )
@@ -312,7 +314,7 @@ def main():
     #     oy.append(60.0 - i)
 
 
-    # set obstacle positions for group 9
+    # set obstacle positions for group 2
     ox, oy = [], []
     for i in range(-10, 60): # draw the button border 
         ox.append(i)
@@ -358,6 +360,13 @@ def main():
             tc_x.append(i)
             tc_y.append(j)
 
+    # set minus cost area
+    pc_x, pc_y = [], []
+    for i in range(16,20):
+        for j in range(53,57):
+            pc_x.append(i)
+            pc_y.append(j)
+
     if show_animation:  # pragma: no cover
         plt.plot(ox, oy, ".k") # plot the obstacle
         plt.plot(sx, sy, "og") # plot the start position 
@@ -365,6 +374,7 @@ def main():
         
         plt.plot(fc_x, fc_y, "oy") # plot the fuel consuming area
         plt.plot(tc_x, tc_y, "or") # plot the time consuming area
+        plt.plot(pc_x, pc_y, "or") # plot the minus cost area
 
         plt.grid(True) # plot the grid to the plot panel
         plt.axis("equal") # set the same resolution for x and y axis 
