@@ -1,6 +1,6 @@
 <p align="center">
-  # Polyu ENG1003 AAE Freashman Project
-# Polyu ENG1003 AAE Freashman Project
+  // # Polyu
+  
 ### Group 2
 
 Task 1
