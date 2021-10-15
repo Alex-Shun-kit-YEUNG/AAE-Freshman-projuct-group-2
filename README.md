@@ -1,5 +1,5 @@
-<p align="center">
-  // # Polyu
+# <p align="center">
+  Polyu
   
 ### Group 2
 
