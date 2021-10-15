@@ -52,16 +52,16 @@ class AStarPlanner:
         self.Delta_T = 5
         self.C_C = 10
         
-        self.Delta_F_A = 2 # additional fuel
-        self.Delta_T_A = 5 # additional time 
+        self.Delta_F_A = 0.3 # additional fuel
+        self.Delta_T_A = 0.4 # additional time 
         
         
 
         self.costPerGrid = self.C_F * self.Delta_F + self.C_T * self.Delta_T + self.C_C
 
-        print("PolyU-A380 cost part1-> ", self.C_F * (self.Delta_F + self.Delta_F_A) )
-        print("PolyU-A380 cost part2-> ", self.C_T * (self.Delta_T + self.Delta_T_A) )
-        print("PolyU-A380 cost part3-> ", self.C_C )
+        print("PolyU-A381 cost part1-> ", self.C_F * (self.Delta_F + self.Delta_F_A) )
+        print("PolyU-A381 cost part2-> ", self.C_T * (self.Delta_T + self.Delta_T_A) )
+        print("PolyU-A381 cost part3-> ", self.C_C )
 
     class Node: # definition of a sinle node
         def __init__(self, x, y, cost, parent_index):
