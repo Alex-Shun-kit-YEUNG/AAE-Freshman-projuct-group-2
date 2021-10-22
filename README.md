@@ -18,6 +18,7 @@ Task 1
 ![Cost of A383 - figure](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/main/Cost%20of%20A383.jpeg)
 
 The minimum cost is model A380
+---
 
 Task 2 
 
