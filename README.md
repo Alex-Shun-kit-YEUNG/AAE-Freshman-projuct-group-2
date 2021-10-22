@@ -4,7 +4,9 @@
 ### Overview  
 ---
 
-Task 1
+### Task 1
+
+Task 1 aims to find the aircraft model with the minimum total cost flyin through the designated zone.
 
 ![Task1 numbers](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/0ee9bf5ed7224fc73bed4743379536dc401045f9/task1%20numbers.png)
 
