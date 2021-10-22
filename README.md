@@ -53,3 +53,34 @@ Let y + x = z
 So the minimum of z is 40 when it across the point (20 , 20).
 
 So the answer of the task 2 question 1 is 210.
+
+
+
+Task 2 question 2
+C:\Users\Alex\Desktop\Untitled-1.py start the A star algorithm demo !!
+min_x: -10
+min_y: -10
+max_x: 60
+max_y: 60
+x_width: 70
+y_width: 70
+1 9 1 16
+1 10 1 15
+1 11 1 14
+1 12 1 13
+1 13 1 12
+1 14 1 11
+1 15 1 10
+1 16 1 9
+9 1 16 1
+10 1 15 1
+11 1 14 1
+12 1 13 1
+13 1 12 1
+14 1 11 1
+15 1 10 1
+16 1 9 1
+35
+PolyU-A380 cost part1->  364.8
+PolyU-A380 cost part2->  364.8
+PolyU-A380 cost part3->  10
