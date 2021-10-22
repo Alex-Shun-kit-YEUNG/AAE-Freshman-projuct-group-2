@@ -36,8 +36,7 @@ class AStarPlanner:
         self.C_T = 2
         self.Delta_T = 5
         self.C_C = 10
-        self.C_P = -2
-        self.Delta_P = 2
+
         
         self.Delta_F_A = 0.2 # additional fuel
         self.Delta_T_A = 0.2 # additional time 
@@ -63,7 +62,7 @@ class AStarPlanner:
 
 
 
-        self.costPerGrid = self.C_F * self.Delta_F + self.C_T * self.Delta_T + self.C_C + self.C_P * self.Delta_P 
+        self.costPerGrid = self.C_F * self.Delta_F + self.C_T * self.Delta_T + self.C_C  
 
         print("PolyU-A380 cost part1-> ", self.C_F * (self.Delta_F + self.Delta_F_A) )
         print("PolyU-A380 cost part2-> ", self.C_T * (self.Delta_T + self.Delta_T_A) )
