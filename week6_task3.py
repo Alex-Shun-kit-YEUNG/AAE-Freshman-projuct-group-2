@@ -1,18 +1,3 @@
-"""
-A* grid planning
-author: Atsushi Sakai(@Atsushi_twi)
-        Nikos Kanargias (nkana@tee.gr)
-See Wikipedia article (https://en.wikipedia.org/wiki/A*_search_algorithm)
-This is the simple code for path planning class
-"""
-
-
-
-
-
-
-
-
 import math
 
 import matplotlib.pyplot as plt
@@ -57,6 +42,7 @@ class AStarPlanner:
         self.Delta_F_A = 0.2 # additional fuel
         self.Delta_T_A = 0.2 # additional time 
         
+    
         
 
         self.costPerGrid = self.C_F * self.Delta_F + self.C_T * self.Delta_T + self.C_C + self.C_P * self.Delta_P 
@@ -64,6 +50,7 @@ class AStarPlanner:
         print("PolyU-A380 cost part1-> ", self.C_F * (self.Delta_F + self.Delta_F_A) )
         print("PolyU-A380 cost part2-> ", self.C_T * (self.Delta_T + self.Delta_T_A) )
         print("PolyU-A380 cost part3-> ", self.C_C )
+        print("PolyU-A380 minus cost-> ", self.C_P * self.Delta_P)
 
     class Node: # definition of a sinle node
         def __init__(self, x, y, cost, parent_index):
