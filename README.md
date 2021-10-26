@@ -114,3 +114,7 @@ PolyU-A380 cost part1->  364.8
 PolyU-A380 cost part2->  364.8
 
 PolyU-A380 cost part3->  10
+
+---
+### Task 3
+![Task3 figure](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/main/task3-figure.png)
