@@ -1,4 +1,4 @@
-# PolyU Eng1003 AAE Freashman Project
+# PolyU Eng1003 AAE Freshman Project
 ### Group 2 Report
 
 ### Overview   
