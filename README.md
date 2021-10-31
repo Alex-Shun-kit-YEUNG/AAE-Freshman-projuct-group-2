@@ -13,7 +13,7 @@ Recently, thousands of aircrafts are operating for the aviation industry.  Findi
 ---
 ### Task 1
 
-Task 1 aims to find the aircraft model with the minimum total cost flyin through the designated zone.
+Task 1 aims to find the aircraft model with the minimum total cost flying through the designated zone.
 We were given a 70 by 70 square zone template. We changed the position of the start, goal, aditional cost areas and barriers by editing the sample code.
 
 ![Task1 numbers](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/0ee9bf5ed7224fc73bed4743379536dc401045f9/task1%20numbers.png)
@@ -117,4 +117,11 @@ PolyU-A380 cost part3->  10
 
 ---
 ### Task 3
+
+This task aims to design a new cost area that can reduce the cost of the route. The additional minus cost area should be at a maximum of 16 grip points and located at the best location.
+
+Firstly of all, a new minus costarea is decided to be located at the place which cover a longer route, so the cost can be reduced at a higher rate. Besides, the maximum area of 16 grid points has to be taken into consideration. After the decision of location, a new code has to be inserted to the original one so as to create the area at the planned location. The new code is inserted under the fuel consuming area and time consuming area and the area is located by inputting the x-axis and y-axis.
+
+Other than the locating the area by inputting a new code, the two new elements data of the additional minus cost area has to be added, while the equation for the cost in the original code has to be amended according to the given one, so that the designated minus cost area can be used to reduce the cost. 
+
 ![Task3 figure](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/main/task3-figure.png)
