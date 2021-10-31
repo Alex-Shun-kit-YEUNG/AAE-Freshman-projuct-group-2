@@ -8,31 +8,25 @@ Recently, thousands of aircrafts are operating for the aviation industry.  Findi
 ### Table of content
 
 1. Background of Path Planning to Aviation Engineering
+
 2. Theory of Path Planning Algorithm
+
 3. Introduction of the Engineering Tools
    3.1 Python
    3.2 GitHub
-4. Task 1
-   4.1 Methodology
-   4.2 Results
-   4.3 Discussion
-5. Task 2.1
-   5.1 Methodology
-   5.2 Results
-   5.3 Discussion
-6. Task 2.2
-   6.1 Methodology
-   6.2 Results
-   6.3 Discussion
-7. Task 3
-   7.1 Methodology
-   7.2 Results
-   7.3 Discussion
-8. Task 4
-   8.1 Methodology
-   8.2 Results
-   8.3 Discussion
+
+4. Task 1: Methodology, Results and Discussion
+
+5. Task 2.1: Methodology, Results and Discussion
+
+6. Task 2.2: Methodology, Results and Discussion
+
+7. Task 3: Methodology, Results and Discussion
+
+8. Task 4: Methodology, Results and Discussion
+   
 9. Reflective Essay
+
 10. References
    
 ---
