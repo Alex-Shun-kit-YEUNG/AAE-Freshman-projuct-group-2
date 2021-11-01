@@ -161,6 +161,15 @@ For the result, the location of minus cost area is selected at i in range(16,20)
 - Chan Kai Hin
 - Pu Yuxuan
 - Sim Ji Tong
+
+In this freshmen project, I have learnt how to use programming and python for the first time. Programming has amazed me that by typing simple characters and symbols solely using the keyboard, almost all functions can be done, like coding for a calculator, plotting a path planning graph by matplotlib and inserting an image in a project report. 
+
+Working on this project requires self-learning at the same time since python is a completely new language. We learnt the new programming language by searching for information on the internet and trying on our own repeatedly. When we were working on the compulsory task 1, difficulties were encountered in editing the fuel-consuming area and time-consuming area. We do not understand the function of  “for i / j in range”. Therefore we  took a photo of the original graph for record, then changed the data in each section accordingly and observed the difference in the graph so as to analyse what each data is representing. Finally we are able to conclude that the range for i is the start and end point on the x-axis while the range for j is the start and end point on the y-axis. During the process of searching for the use of different programming functions from the internet and Youtube videos, I have found that I become more motivated in learning things actively by myself and many obstacles faced when doing the project can be solved easily and quickly. It is believed that self-motivation is an important key to work efficiently.
+
+Other than the knowledge on the technical side, I have also widened my horizon about GitHub and readme. GitHub is a platform where everyone in the world can share their programming work and collaborate with others. Readme is also one of the new things I have learnt to use. Usually we used to type a project report on google document or microsoft word file. However, readme is completely different from them. For example, inserting an image by typing a specific function and the link of the image, linking the table of contents with the heading of each sections by adding anchors, and bolding the text using “**”. These functions are all very interesting that we no longer depend on the button at the tool bar, but typing out the formatting and functions on our own.
+
+In overall, I had a great experience working on the path planning project by programming.
+
 - Yeung Shun Kit
 - Zeng Muxi
 
