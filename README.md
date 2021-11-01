@@ -31,7 +31,7 @@ Recently, thousands of aircrafts are operating for the aviation industry.  Findi
    
 ---
 ### <a name="background-of-path-planning-to-aviation-engineering"></a> Background of Path Planning to Aviation Engineering
----
+-
 ### <a name="theory-of-path-planning-algorithm"></a> Theory of Path Planning Algorithm
 ---
 ### <a name="introduction-of-the-engineering-tools"></a> Introduction of the Engineering Tools
@@ -157,11 +157,13 @@ For the result, the location of minus cost area is selected at i in range(16,20)
 ---
 ### <a name="task4"></a> Task 4: Methodology, Results and Discussion
 ---
+
 ### <a name="reflective-essay"></a> Reflective Essay
-__Chan Kai Hin
-__Pu Yuxuan__
-__Sim Ji Tong
-__Yeung Shun Kit
-__Zeng Muxi
----
+-Chan Kai Hin
+-Pu Yuxuan
+- Sim Ji Tong
+- Yeung Shun Kit
+- Zeng Muxi
+
+--- 
 ### <a name="references"></a> References
