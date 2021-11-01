@@ -31,7 +31,13 @@ Recently, thousands of aircrafts are operating for the aviation industry.  Findi
    
 ---
 ### <a name="background-of-path-planning-to-aviation-engineering"></a> Background of Path Planning to Aviation Engineering
+---
+### <a name="theory-of-path-planning-algorithm"></a> Theory of Path Planning Algorithm
+---
+### <a name="introduction-of-the-engineering-tools"></a> Introduction of the Engineering Tools
 
+### <a name="python"></a> Python
+### <a name="github"></a> Github
 ---
 ### <a name="task1"></a> Task 1: Methodology, Results and Discussion
 
@@ -148,3 +154,7 @@ Other than the locating the area by inputting a new code, the two new elements d
 For the result, the location of minus cost area is selected at i in range(16,20) and j in range(53,57), forming a square of 16 grid points.
 
 ![Task3 figure](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/main/task3-figure.png)
+---
+### <a name="reflective-essay"></a> Reflective Essay
+---
+### <a name="references"></a> References
