@@ -154,13 +154,15 @@ Other than the locating the area by inputting a new code, the two new elements d
 For the result, the location of minus cost area is selected at i in range(16,20) and j in range(53,57), forming a square of 16 grid points.
 
 ![Task3 figure](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/main/task3-figure.png)
+
 ---
 ### <a name="task4"></a> Task 4: Methodology, Results and Discussion
+
 ---
 
 ### <a name="reflective-essay"></a> Reflective Essay
--Chan Kai Hin
--Pu Yuxuan
+- Chan Kai Hin
+- Pu Yuxuan
 - Sim Ji Tong
 - Yeung Shun Kit
 - Zeng Muxi
