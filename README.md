@@ -7,7 +7,7 @@ Recently, thousands of aircrafts are operating for the aviation industry.  Findi
 ---
 ### Table of content
 
-1. [Background of Path Planning to Aviation Engineering] (#background-of-path-planning-to-Aviation-Engineering)
+1. [Background of Path Planning to Aviation Engineering](#background-of-path-planning-to-Aviation-Engineering)
 
 2. Theory of Path Planning Algorithm
 
