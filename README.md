@@ -155,6 +155,13 @@ For the result, the location of minus cost area is selected at i in range(16,20)
 
 ![Task3 figure](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/main/task3-figure.png)
 ---
+### <a name="task4"></a> Task 4: Methodology, Results and Discussion
+---
 ### <a name="reflective-essay"></a> Reflective Essay
+__Chan Kai Hin
+__Pu Yuxuan__
+__Sim Ji Tong
+__Yeung Shun Kit
+__Zeng Muxi
 ---
 ### <a name="references"></a> References
