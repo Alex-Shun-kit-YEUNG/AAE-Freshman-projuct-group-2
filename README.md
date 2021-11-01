@@ -7,33 +7,34 @@ Recently, thousands of aircrafts are operating for the aviation industry.  Findi
 ---
 ### Table of content
 
-1. [Background of Path Planning to Aviation Engineering](#background-of-path-planning-to-Aviation-Engineering)
+1. [Background of Path Planning to Aviation Engineering](#background-of-path-planning-to-aviation-engineering)
 
-2. Theory of Path Planning Algorithm
+2. [Theory of Path Planning Algorithm](#theory-of-path-planning-algorithm)
 
-3. Introduction of the Engineering Tools
-   3.1 Python
-   3.2 GitHub
+3. [Introduction of the Engineering Tools](#introduction-of-the-engineering-tools)
+   3.1 [Python](#python)
+   3.2 [GitHub](#github)
 
-4. Task 1: Methodology, Results and Discussion
+4. [Task 1: Methodology, Results and Discussion](#task1)
 
-5. Task 2.1: Methodology, Results and Discussion
+5. [Task 2.1: Methodology, Results and Discussion](#task2.1)
 
-6. Task 2.2: Methodology, Results and Discussion
+6. [Task 2.2: Methodology, Results and Discussion](#task2.2)
 
-7. Task 3: Methodology, Results and Discussion
+7. [Task 3: Methodology, Results and Discussion](#task3)
 
-8. Task 4: Methodology, Results and Discussion
+8. [Task 4: Methodology, Results and Discussion](#task4)
    
-9. Reflective Essay
+9. [Reflective Essay](#reflective-essay)
 
-10. References
+10. [References](#references)
    
 ---
 ### <a name="background-of-path-planning-to-aviation-engineering"></a> Background of Path Planning to Aviation Engineering
 
 ---
-### Task 1
+### <a name="task1"></a> Task 1: Methodology, Results and Discussion
+
 
 Task 1 aims to find the aircraft model with the minimum total cost flying through the designated zone.
 We were given a 70 by 70 square zone template. We changed the position of the start, goal, aditional cost areas and barriers by editing the sample code.
@@ -47,9 +48,7 @@ We were given a 70 by 70 square zone template. We changed the position of the st
 The minimum cost is model A380
 
 ---
-
-
-Task 2 
+### <a name="task2.1"></a> Task 2.1: Methodology, Results and Discussion
 
 We know that C = Cf * delta F + Ct * delta T + Cc , delta F = delta T = 5
 
@@ -83,7 +82,7 @@ So the answer of the task 2 question 1 is 210.
 
 
 
-Task 2 question 2
+### <a name="task2.2"></a> Task 2.2: Methodology, Results and Discussion
 C:\Users\Alex\Desktop\Untitled-1.py start the A star algorithm demo !!
 min_x: -10
 
@@ -138,7 +137,7 @@ PolyU-A380 cost part2->  364.8
 PolyU-A380 cost part3->  10
 
 ---
-### Task 3
+### <a name="task3"></a> Task 3: Methodology, Results and Discussion
 
 This task aims to design a new cost area that can reduce the cost of the route. The additional minus cost area should be at a maximum of 16 grip points and located at the best location.
 
