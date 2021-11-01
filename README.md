@@ -31,8 +31,10 @@ Recently, thousands of aircrafts are operating for the aviation industry.  Findi
    
 ---
 ### <a name="background-of-path-planning-to-aviation-engineering"></a> Background of Path Planning to Aviation Engineering
--
+
+---
 ### <a name="theory-of-path-planning-algorithm"></a> Theory of Path Planning Algorithm
+
 ---
 ### <a name="introduction-of-the-engineering-tools"></a> Introduction of the Engineering Tools
 
@@ -41,15 +43,12 @@ Recently, thousands of aircrafts are operating for the aviation industry.  Findi
 ---
 ### <a name="task1"></a> Task 1: Methodology, Results and Discussion
 
-
 Task 1 aims to find the aircraft model with the minimum total cost flying through the designated zone.
 We were given a 70 by 70 square zone template. We changed the position of the start, goal, aditional cost areas and barriers by editing the sample code.
 
 ![Task1 numbers](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/0ee9bf5ed7224fc73bed4743379536dc401045f9/task1%20numbers.png)
 
-
 ![week6 task figure](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/main/week6%20task%20figure.png)
-
 
 The minimum cost is model A380
 
@@ -86,8 +85,7 @@ So the minimum of z is 40 when it across the point (20 , 20).
 
 So the answer of the task 2 question 1 is 210.
 
-
-
+---
 ### <a name="task2.2"></a> Task 2.2: Methodology, Results and Discussion
 C:\Users\Alex\Desktop\Untitled-1.py start the A star algorithm demo !!
 min_x: -10
@@ -159,7 +157,6 @@ For the result, the location of minus cost area is selected at i in range(16,20)
 ### <a name="task4"></a> Task 4: Methodology, Results and Discussion
 
 ---
-
 ### <a name="reflective-essay"></a> Reflective Essay
 - Chan Kai Hin
 - Pu Yuxuan
