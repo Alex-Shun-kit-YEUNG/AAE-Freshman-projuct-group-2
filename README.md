@@ -7,7 +7,7 @@ Recently, thousands of aircrafts are operating for the aviation industry.  Findi
 ---
 ### Table of content
 
-1. Background of Path Planning to Aviation Engineering
+1. [Background of Path Planning to Aviation Engineering] (#background-of-path-planning-to-Aviation-Engineering)
 
 2. Theory of Path Planning Algorithm
 
@@ -145,5 +145,7 @@ This task aims to design a new cost area that can reduce the cost of the route. 
 Firstly of all, a new minus costarea is decided to be located at the place which cover a longer route, so the cost can be reduced at a higher rate. Besides, the maximum area of 16 grid points has to be taken into consideration. After the decision of location, a new code has to be inserted to the original one so as to create the area at the planned location. The new code is inserted under the fuel consuming area and time consuming area and the area is located by inputting the x-axis and y-axis.
 
 Other than the locating the area by inputting a new code, the two new elements data of the additional minus cost area has to be added, while the equation for the cost in the original code has to be amended according to the given one, so that the designated minus cost area can be used to reduce the cost. 
+
+For the result, the location of minus cost area is selected at i in range(16,20) and j in range(53,57), forming a square of 16 grid points.
 
 ![Task3 figure](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/main/task3-figure.png)
