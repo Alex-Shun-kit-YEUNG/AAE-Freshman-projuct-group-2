@@ -171,6 +171,15 @@ Other than the knowledge on the technical side, I have also widened my horizon a
 In overall, I had a great experience working on the path planning project by programming.
 
 - Yeung Shun Kit
+
+I am glad that I chose the AAE freshmen project, as I realized I had gained some formidable learning experience.
+
+First, I learned a lot about programming. Before entering university, I had rarely tried anything related to programming. With this freshmen project, it gave me a good purpose and opportunity to really dig deeper into to world of coding. Although at the end of this project, I have only acquired some very basic ideas about coding, the process still gave me a lot of insights and raised my interest in the software side of engineering. I will definitely try more on coding in the future and hopefully develop some useful programming skills for learning and career purposes.
+
+Second, this project made me realize the importance of self-learning. I was so used to the secondary education system in which I was fed with information from teachers. It took me quite some time to adapt to the self-learning method. When the tutors gave us the tasks, they rarely showed us how to actually do them. I was confused and had to find the solution together with my groupmates. Although the process was tough, because I didn’t know where to start, as the time goes on, I get the hang of self-learning methods and made some good process. From the learning experience, I realized that from this point on, more learning will be done in self-learning, thus I will make sure to be more proactive in learning on my own. Afterall this may be a more suitable learning method for me.
+
+
+
 - Zeng Muxi
 
 --- 
