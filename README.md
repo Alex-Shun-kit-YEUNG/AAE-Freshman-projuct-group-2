@@ -50,9 +50,11 @@ After running the code, cost values o part 1 to 3, as well as the total cost wil
 We can find the total cost of each aircraft model by runnung the code with modified number factor. It would be clearest to show all related cost numbers for each model at the same to for easy comparison. However, we found it difficult to write a code for such operation together with the code for finding the shortest path. Thus we decided to make a separate code just to show all the relavent numbers and compare the values to find the model with the lowest cost by using the list function in the code.
 
 Here is the link to the code for comparing the numbers:
-(AAE-Freshman-projuct-group-2)
+
+[](AAE-Freshman-projuct-group-2)
 
 ![Task1 numbers](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/0ee9bf5ed7224fc73bed4743379536dc401045f9/task1%20numbers.png)
+
 Therefore, we found the A380 is the model with the lowest cost when travelling through our designated map.
 
 This is the map for our group. The red line represents the shortest distance from the start to the goal found using the a star path finding code.
