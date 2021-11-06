@@ -47,11 +47,16 @@ Task 1 aims to find the aircraft model with the minimum total cost flying throug
 We were given a 70 by 70 square zone template. We changed the position of the start, goal, aditional cost areas and barriers by editing the sample code.
 After running the code, cost values o part 1 to 3, as well as the total cost will be shown.
 
-![Task1 numbers](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/0ee9bf5ed7224fc73bed4743379536dc401045f9/task1%20numbers.png)
+We can find the total cost of each aircraft model by runnung the code with modified number factor. It would be clearest to show all related cost numbers for each model at the same to for easy comparison. However, we found it difficult to write a code for such operation together with the code for finding the shortest path. Thus we decided to make a separate code just to show all the relavent numbers and compare the values to find the model with the lowest cost by using the list function in the code.
 
+Here is the link to the code for comparing the numbers:
+
+![Task1 numbers](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/0ee9bf5ed7224fc73bed4743379536dc401045f9/task1%20numbers.png)
+Therefore, we found the A380 is the model with the lowest cost when travelling through our designated map.
+
+This is the map for our group. The red line represents the shortest distance from the start to the goal found using the a star path finding code.
 ![week6 task figure](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/main/week6%20task%20figure.png)
 
-The minimum cost is model A380
 
 ---
 ### <a name="task2.1"></a> Task 2.1: Methodology, Results and Discussion
