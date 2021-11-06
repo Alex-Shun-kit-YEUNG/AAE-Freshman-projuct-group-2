@@ -45,6 +45,7 @@ Recently, thousands of aircrafts are operating for the aviation industry. Findin
 
 Task 1 aims to find the aircraft model with the minimum total cost flying through the designated zone.
 We were given a 70 by 70 square zone template. We changed the position of the start, goal, aditional cost areas and barriers by editing the sample code.
+After running the code, cost values o part 1 to 3, as well as the total cost will be shown.
 
 ![Task1 numbers](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/0ee9bf5ed7224fc73bed4743379536dc401045f9/task1%20numbers.png)
 
