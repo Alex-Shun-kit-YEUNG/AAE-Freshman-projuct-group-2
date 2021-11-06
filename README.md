@@ -51,7 +51,7 @@ We can find the total cost of each aircraft model by runnung the code with modif
 
 Here is the link to the code for comparing the numbers:
 
-[comparison code](compulsory_task1_numbers.py)
+[Comparison code](compulsory_task1_numbers.py)
 
 ![Task1 numbers](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/0ee9bf5ed7224fc73bed4743379536dc401045f9/task1%20numbers.png)
 
