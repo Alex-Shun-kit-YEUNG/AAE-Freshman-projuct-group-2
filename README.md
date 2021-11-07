@@ -104,7 +104,11 @@ So the answer of the task 2 question 1 is 210.
 
 ---
 ### <a name="task2.2"></a> Task 2.2: Methodology, Results and Discussion
-C:\Users\Alex\Desktop\Untitled-1.py start the A star algorithm demo !!
+Task 2.2 is handled in the same way as task 2.1, except that there are more unknowns. Therefore, the method of task 2.1 cannot be reused for linear programming.
+So first of all, we should set the start point and the end point. Then, we are supposed to program according to the fomula. Next, after setting the correct path to reach the final goal, we can be able to find the minimum cost. 
+At last, we can find the minimum cost by running the code, and here is the figure which can lead to the right answer. 
+![task2 2_Figure_1](https://user-images.githubusercontent.com/90884784/140635469-bb701815-aa30-4aaf-892b-7735cbcc64c1.png)
+After showing the figure, the statistics are shown below
 min_x: -10
 
 min_y: -10
