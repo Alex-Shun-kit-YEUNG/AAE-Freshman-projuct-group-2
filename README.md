@@ -12,8 +12,12 @@ Recently, thousands of aircrafts are operating for the aviation industry. Findin
 2. [Theory of Path Planning Algorithm](#theory-of-path-planning-algorithm)
 
 3. [Introduction of the Engineering Tools](#introduction-of-the-engineering-tools)
+   
    3.1 [Python](#python)
-   3.2 [GitHub](#github)
+   
+   Python is a widely used programming language. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented and functional programming. It has a large and extensive standard library of its own. Compare that to C and Java, python allows developers to express ideas in less code so that to make the code clearly. Besides, python runs on almost any operating system [1].
+   
+   5.2 [GitHub](#github)
 
 4. [Task 1: Methodology, Results and Discussion](#task1)
 
