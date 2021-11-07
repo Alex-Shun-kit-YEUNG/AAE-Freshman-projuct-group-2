@@ -109,6 +109,7 @@ So first of all, we should set the start point and the end point. Then, we are s
 At last, we can find the minimum cost by running the code, and here is the figure which can lead to the right answer. 
 ![task2 2_Figure_1](https://user-images.githubusercontent.com/90884784/140635469-bb701815-aa30-4aaf-892b-7735cbcc64c1.png)
 After showing the figure, the statistics are shown below
+
 min_x: -10
 
 min_y: -10
