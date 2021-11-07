@@ -15,11 +15,7 @@ Recently, thousands of aircrafts are operating for the aviation industry. Findin
    
    3.1 [Python](#python)
    
-   Python is a widely used programming language. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented and functional programming. It has a large and extensive standard library of its own. Compare that to C and Java, python allows developers to express ideas in less code so that to make the code clearly. Besides, python runs on almost any operating system [1].
-   
    5.2 [GitHub](#github)
-   
-   GitHub is a software source code hosting platform for version control through Git. GitHub account can create public or private code repositories. In addition to allowing individuals and organizations to create and access code in custody, it also provides some features that facilitate social common software development, namely community features for the general population, including allowing users to track other users, organizations, software libraries, and comment on software code changes and bugs. By the end of the January 2020, GitHub already has over 40 million registered users and 190 million code bases. GitHub has become the world's largest code repository and open source community.
 
 4. [Task 1: Methodology, Results and Discussion](#task1)
 
@@ -45,7 +41,13 @@ Recently, thousands of aircrafts are operating for the aviation industry. Findin
 ### <a name="introduction-of-the-engineering-tools"></a> Introduction of the Engineering Tools
 
 ### <a name="python"></a> Python
+
+Python is a widely used programming language. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented and functional programming. It has a large and extensive standard library of its own. Compare that to C and Java, python allows developers to express ideas in less code so that to make the code clearly. Besides, python runs on almost any operating system [1].
+
 ### <a name="github"></a> Github
+
+GitHub is a software source code hosting platform for version control through Git. GitHub account can create public or private code repositories. In addition to allowing individuals and organizations to create and access code in custody, it also provides some features that facilitate social common software development, namely community features for the general population, including allowing users to track other users, organizations, software libraries, and comment on software code changes and bugs. By the end of the January 2020, GitHub already has over 40 million registered users and 190 million code bases. GitHub has become the world's largest code repository and open source community.
+
 ---
 ### <a name="task1"></a> Task 1: Methodology, Results and Discussion
 
