@@ -189,6 +189,15 @@ For the result, the location of minus cost area is selected at i in range(16,20)
 ### <a name="reflective-essay"></a> Reflective Essay
 - Chan Kai Hin
 - Pu Yuxuan
+
+This lecture gave me plenty of knowledge and experience. I participated in group task 1 and 2 and GitHub Readme. I learned a lot in path planning and necessary skills as an engineering student. The powerful functions of GitHub also surprise me a lot.   
+
+However, the knowledge is not the only thing i learned. The difference with previous studies is that teachers do not teach us but give us a direction so that we can use Internet to do self-learning. This kind of experience is quite fresh for me. Searching any sources may help the task is an interesting process. In the high school, I seldom use Internet as a study tool. This lecture give us a chance to practice searching skills which maybe necessary in the past 4 years. When we tried to chance the initial code, we can watch guide video from youtube. When we worked on mathematics problems, we can use graph tool online. Try to use Internet and believe yourself. 
+
+Besides, this lecture also gave me a chance to make more friends. The teachers are truly helpful. Senior students help us to solve some problems, too. As a mainland student, I hardly have chance to talk with local students or other foreigners. But now, after this lecture team working, i have had three local friends. This is also a precious harvest. 
+
+Overall, this lecture gave me a valuable experience and pointed the way for my past four years.    
+
 - Sim Ji Tong
 
 In this freshmen project, I have learnt how to use programming and python for the first time. Programming has amazed me that by typing simple characters and symbols solely using the keyboard, almost all functions can be done, like coding for a calculator, plotting a path planning graph by matplotlib and inserting an image in a project report. 
