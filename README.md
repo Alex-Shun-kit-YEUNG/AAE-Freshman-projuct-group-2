@@ -39,7 +39,10 @@ In Aviation, path planning is a critical element of the industry's development. 
 ---
 ### <a name="theory-of-path-planning-algorithm"></a> Theory of Path Planning Algorithm
 
+path planning is a computational problem to find a sequence of valid configurations that moves the object from the an initial to a final point, passing through pre-defined via-points from an initial to a final point. The term is used in computational geometry, computer animation, robotics and computer games. It is usually divided according to the methodologies used to create the geometric route.
 
+In theory, low-dimensional problems can be solved with grid-based algorithms that overlay a grid on top of configuration space or geometric algorithms that compute the shape and connectivity.
+Detailed motion planning for high-dimensional systems under complex constraints is computationally intractable. But using sampling-based algorithms avoid the problem of local minima and solves many issues relatively quickly. It is impossible to determine that no path exists, but the probability of failure decreases to zero as more time is spent.
 
 ---
 ### <a name="introduction-of-the-engineering-tools"></a> Introduction of the Engineering Tools
