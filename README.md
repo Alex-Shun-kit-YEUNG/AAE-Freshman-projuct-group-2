@@ -32,7 +32,7 @@ Recently, thousands of aircrafts are operating for the aviation industry. Findin
 10. [References](#references)
    
 ---
-### <a name="background-of-path-planning-to-aviation-engineering"></a> Background of Path Planning to Aviation Engineering
+### <a name="background-of-path-planning-to-aviation-engineering"></a> Background of Path Planning to Aviation
 
 ---
 ### <a name="theory-of-path-planning-algorithm"></a> Theory of Path Planning Algorithm
