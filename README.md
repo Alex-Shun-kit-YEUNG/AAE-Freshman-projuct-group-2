@@ -34,8 +34,12 @@ Recently, thousands of aircrafts are operating for the aviation industry. Findin
 ---
 ### <a name="background-of-path-planning-to-aviation-engineering"></a> Background of Path Planning to Aviation
 
+In Aviation, path planning is a critical element of the industry's development. Proper flight path planning can help navigate the aircraft through dangerous weather conditions or avoid the prohibited area to enhance flight safeness. It can help the pilot to have better control and preparation for the flight. In the case of air traffic management, flight path planning can ensure that the airspace is used efficiently and lower the possibility of accidents. Even more, costs can be significantly reduced and controlled by path planning. As a result, a suitable path planning algorithm plays an increasingly important role in the aviation industry nowadays.
+
 ---
 ### <a name="theory-of-path-planning-algorithm"></a> Theory of Path Planning Algorithm
+
+
 
 ---
 ### <a name="introduction-of-the-engineering-tools"></a> Introduction of the Engineering Tools
