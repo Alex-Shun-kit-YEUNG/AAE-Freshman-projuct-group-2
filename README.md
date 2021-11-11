@@ -220,6 +220,14 @@ Lastly, I have acquired more experience on being a leader of a team. I volunteer
 
 - Zeng Muxi
 
+In this freshmen porject, it is fortunate that my teammates are all very understanding and talented, we helped with each other during the project, and that's one of the most valuable experience I have ever had.
+
+First, I have leant how to program the code and try to present the correct gragh. To be honest, I have never heard about python before until this freshmen project, and this course has given me a chance to get familiar with python and how to do computer programming. Though that is only a little part of the wonderful world of computer programming, I still learnt a lot. From setting the start point to finally find the best path, you have to be concentrated and careful because every single part can lead to a quite different answer, and that experience has told me that only by working step by step can we find the best method to successfully solve a problem.
+
+Second, it is the course which make me understand the true meaning of team work. Every one has to participate in the tasks so that the team can be able to be more efficient. We have to make full use of everyone's wisdom to figure out how to do the questions, one teammate's talent is limited while the whole team can put every single teammate's strenths together. At the same time, though we are divided into a number of groups, we can still communicate with our classmates who are talented in computer programming and get some extra help from them. 
+
+At last, I think as a mainland student, I really appreciate the help from my three local teanmmates. They are always so patient when they are listenning to my ideas and giving comments to them, without their help, I think it could be hard for me to fit in the group. During this course, I not only learnt how to install and use python smoothly, but also get valuable friendship, and I think that's the most important part of the course
+
 --- 
 ### <a name="references"></a> References
 
