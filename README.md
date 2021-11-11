@@ -25,11 +25,9 @@ Recently, thousands of aircrafts are operating for the aviation industry. Findin
 
 7. [Task 3: Methodology, Results and Discussion](#task3)
 
-8. [Task 4: Methodology, Results and Discussion](#task4)
-   
-9. [Reflective Essay](#reflective-essay)
+8. [Reflective Essay](#reflective-essay)
 
-10. [References](#references)
+9. [References](#references)
    
 ---
 ### <a name="background-of-path-planning-to-aviation-engineering"></a> Background of Path Planning to Aviation
@@ -181,9 +179,6 @@ Other than the locating the area by inputting a new code, the two new elements d
 For the result, the location of minus cost area is selected at i in range(16,20) and j in range(53,57), forming a square of 16 grid points.
 
 ![Task3 figure](https://github.com/Alex-Shun-kit-YEUNG/AAE-Freshman-projuct-group-2/blob/main/task3-figure.png)
-
----
-### <a name="task4"></a> Task 4: Methodology, Results and Discussion
 
 ---
 ### <a name="reflective-essay"></a> Reflective Essay
