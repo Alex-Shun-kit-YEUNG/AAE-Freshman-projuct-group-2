@@ -226,7 +226,7 @@ First, I have leant how to program the code and try to present the correct gragh
 
 Second, it is the course which make me understand the true meaning of team work. Every one has to participate in the tasks so that the team can be able to be more efficient. We have to make full use of everyone's wisdom to figure out how to do the questions, one teammate's talent is limited while the whole team can put every single teammate's strenths together. At the same time, though we are divided into a number of groups, we can still communicate with our classmates who are talented in computer programming and get some extra help from them. 
 
-At last, I think as a mainland student, I really appreciate the help from my three local teanmmates. They are always so patient when they are listenning to my ideas and giving comments to them, without their help, I think it could be hard for me to fit in the group. During this course, I not only learnt how to install and use python smoothly, but also get valuable friendship, and I think that's the most important part of the course
+At last, I think as a mainland student, I really appreciate the help from my three local teanmmates. They are always so patient when they are listenning to my ideas and giving comments to them, without their help, I think it could be hard for me to fit in the group. During this course, I not only learnt how to install and use python smoothly, but also get valuable friendship, and I think that's the most essential part of the course
 
 --- 
 ### <a name="references"></a> References
