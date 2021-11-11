@@ -40,21 +40,21 @@ In Aviation, path planning is a critical element of the industry's development. 
 ---
 ### <a name="theory-of-path-planning-algorithm"></a> Theory of Path Planning Algorithm
 
-path planning is a computational problem to find a sequence of valid configurations that moves the object from the an initial to a final point, passing through pre-defined via-points from an initial to a final point. The term is used in computational geometry, computer animation, robotics and computer games. It is usually divided according to the methodologies used to create the geometric route.
+path planning is a computational problem to find a sequence of valid configurations that moves the object from the an initial to a final point, passing through pre-defined via-points from an initial to a final point. The term is used in computational geometry, computer animation, robotics and computer games. It is usually divided according to the methodologies used to create the geometric route [1].
 
 In theory, low-dimensional problems can be solved with grid-based algorithms that overlay a grid on top of configuration space or geometric algorithms that compute the shape and connectivity.
-Detailed motion planning for high-dimensional systems under complex constraints is computationally intractable. But using sampling-based algorithms avoid the problem of local minima and solves many issues relatively quickly. It is impossible to determine that no path exists, but the probability of failure decreases to zero as more time is spent.
+Detailed motion planning for high-dimensional systems under complex constraints is computationally intractable. But using sampling-based algorithms avoid the problem of local minima and solves many issues relatively quickly. It is impossible to determine that no path exists, but the probability of failure decreases to zero as more time is spent [2].
 
 ---
 ### <a name="introduction-of-the-engineering-tools"></a> Introduction of the Engineering Tools
 
 ### <a name="python"></a> Python
 
-Python is a widely used programming language. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented and functional programming. It has a large and extensive standard library of its own. Compare that to C and Java, python allows developers to express ideas in less code so that to make the code clearly. Besides, python runs on almost any operating system [1].
+Python is a widely used programming language. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented and functional programming. It has a large and extensive standard library of its own. Compare that to C and Java, python allows developers to express ideas in less code so that to make the code clearly. Besides, python runs on almost any operating system [3].
 
 ### <a name="github"></a> Github
 
-GitHub is a software source code hosting platform for version control through Git. GitHub account can create public or private code repositories. In addition to allowing individuals and organizations to create and access code in custody, it also provides some features that facilitate social common software development, namely community features for the general population, including allowing users to track other users, organizations, software libraries, and comment on software code changes and bugs. By the end of the January 2020, GitHub already has over 40 million registered users and 190 million code bases. GitHub has become the world's largest code repository and open source community[2].
+GitHub is a software source code hosting platform for version control through Git. GitHub account can create public or private code repositories. In addition to allowing individuals and organizations to create and access code in custody, it also provides some features that facilitate social common software development, namely community features for the general population, including allowing users to track other users, organizations, software libraries, and comment on software code changes and bugs. By the end of the January 2020, GitHub already has over 40 million registered users and 190 million code bases. GitHub has become the world's largest code repository and open source community[4].
 
 ---
 ### <a name="task1"></a> Task 1: Methodology, Results and Discussion
@@ -231,6 +231,10 @@ At last, I think as a mainland student, I really appreciate the help from my thr
 --- 
 ### <a name="references"></a> References
 
-[1]Python (programming language), Wikipedia, November 10, 2021. Accessed on: November 11,2021. [Online]. Available:https://en.wikipedia.org/wiki/Python_(programming_language)
+[1]A. Gasparetto, Path Planning and Trajectory Planning Algorithms: A General Overview, March 2015, Accessed on: November 11,2021. [Online]. Available:https://www.researchgate.net/publication/282955967_Path_Planning_and_Trajectory_Planning_Algorithms_A_General_Overview
 
-[2]GitHub, Wikipedia, November 10, 2021. Accessed on: November 11,2021. [Online]. Available: https://en.wikipedia.org/wiki/GitHub
+[2]Motion planning, Wikipedia, November 10, 2021. Accessed on: November 11,2021. [Online]. Available:https://en.wikipedia.org/wiki/Motion_planning
+
+[3]Python (programming language), Wikipedia, November 10, 2021. Accessed on: November 11,2021. [Online]. Available:https://en.wikipedia.org/wiki/Python_(programming_language)
+
+[4]GitHub, Wikipedia, November 10, 2021. Accessed on: November 11,2021. [Online]. Available: https://en.wikipedia.org/wiki/GitHub
