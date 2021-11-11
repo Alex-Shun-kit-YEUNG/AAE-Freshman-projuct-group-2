@@ -53,7 +53,7 @@ Python is a widely used programming language. It supports multiple programming 
 
 ### <a name="github"></a> Github
 
-GitHub is a software source code hosting platform for version control through Git. GitHub account can create public or private code repositories. In addition to allowing individuals and organizations to create and access code in custody, it also provides some features that facilitate social common software development, namely community features for the general population, including allowing users to track other users, organizations, software libraries, and comment on software code changes and bugs. By the end of the January 2020, GitHub already has over 40 million registered users and 190 million code bases. GitHub has become the world's largest code repository and open source community.
+GitHub is a software source code hosting platform for version control through Git. GitHub account can create public or private code repositories. In addition to allowing individuals and organizations to create and access code in custody, it also provides some features that facilitate social common software development, namely community features for the general population, including allowing users to track other users, organizations, software libraries, and comment on software code changes and bugs. By the end of the January 2020, GitHub already has over 40 million registered users and 190 million code bases. GitHub has become the world's largest code repository and open source community[2].
 
 ---
 ### <a name="task1"></a> Task 1: Methodology, Results and Discussion
@@ -224,3 +224,7 @@ Lastly, I have acquired more experience on being a leader of a team. I volunteer
 
 --- 
 ### <a name="references"></a> References
+
+[1]Python (programming language), Wikipedia, November 10, 2021. Accessed on: November 11,2021. [Online]. Available:https://en.wikipedia.org/wiki/Python_(programming_language)
+
+[2]GitHub, Wikipedia, November 10, 2021. Accessed on: November 11,2021. [Online]. Available: https://en.wikipedia.org/wiki/GitHub
