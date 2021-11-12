@@ -186,6 +186,18 @@ For the result, the location of minus cost area is selected at i in range(16,20)
 ---
 ### <a name="reflective-essay"></a> Reflective Essay
 - Chan Kai Hin
+
+Throughout this few weeks of doing this group project, L have learnt things from others around me which make feel gladful to work with them. 
+
+The first new thing come to my mind is the knowledge of python and github. Since I didn't have the base knowlwdge of these tools I found that it is a bit challenging for myself.
+However, I used some simple skills learned from my IC lectures on part of task 1 and 2, which helped me to due with the difficulties. I am very gladful to have the chance of praticing what I learnt because I know these skills will asssist me a lot in my future studies.
+
+On the other hand, this group project allows me to meet some new friends. I don't have a big social network and I don't have much friends in the university at start but after a few weeks of lectures I meet some nice people, and definately the groupmates from this project are part of them.
+
+Moreover, I think this project make myself an oppotunity to try some new stuffs, like vedio presentation, doing coding jobs, etc. I would say this experience helped me to soild part of my base for upcoming challeges.
+
+Lastly, all techers, TAs and groupmates are kind and helpful and I really enjoy this oppotunity to do this project.
+
 - Pu Yuxuan
 
 This lecture gave me plenty of knowledge and experience. I participated in group task 1 and 2 and GitHub Readme. I learned a lot in path planning and necessary skills as an engineering student. The powerful functions of GitHub also surprise me a lot.   
